@@ -49,8 +49,7 @@ Tools that aid in data acquisition and cleaning.
 
 | Name  | Describe  | URL     |
 |-|-|-|
-|Owner avatar
-img2dataset |Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine. | https://github.com/rom1504/img2dataset|
+|img2dataset |Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine. | https://github.com/rom1504/img2dataset|
 | | | | 
 
 ## How to Add a New Dataset
