@@ -2,6 +2,8 @@
 
 In the era of large language models (LLMs), this repository is dedicated to collecting datasets, particularly focusing on image and video data for generative AI (such as diffusion models) and image-text paired data for multimodal models. We hope that the datasets shared by the community can help everyone better learn and train new AI models. By collaborating and sharing resources, we can accelerate the progress towards achieving Artificial General Intelligence (AGI). Let's work together to create a comprehensive collection of datasets that will serve as a valuable resource for researchers, developers, and enthusiasts alike, ultimately paving the way for the realization of AGI.
 
+Some data is more suitable for generative AI, while other data is more suitable for VLM-related tasks. Some data is suitable for both.
+
 If there is any infringement or inappropriate content, please contact us, and we will strive to prevent such content from appearing and handle it as soon as possible.
 
 ## Contents
@@ -14,14 +16,18 @@ If there is any infringement or inappropriate content, please contact us, and we
 
 ## Generative AI (Image)
 
-High-resolution image data sharing (Only Image), not limited to real-life or anime.
+High-resolution image data sharing, not limited to real-life or anime.
 
 | Name  | Describe  | URL     |
 |-|-|-|
+| LAION | Released LAION-400M, LAION-5B, and other ultra-large image-text datasets, as well as various types of CLIP data. | https://laion.ai/projects/  <br>  https://huggingface.co/laion |
+| Conceptual Captions Dataset |Conceptual Captions is a dataset containing (image-URL, caption) pairs designed for the training and evaluation of machine learned image captioning systems. | https://github.com/google-research-datasets/conceptual-captions  <br>  http://ai.google.com/research/ConceptualCaptions|
+||||
+
 
 ## Generative AI (Video)
 
-High-resolution video data sharing (Only video), not limited to real-life or anime.
+High-resolution video data sharing, not limited to real-life or anime.
 
 | Name  | Describe  | URL     |
 |-|-|-|
@@ -78,3 +84,11 @@ If your dataset doesn't fit into any of the existing categories, create a new se
 By following these steps, you can help expand the collection of datasets available in this repository and contribute to the advancement of generative AI and multimodal visual AI research.
 
 Contributions of more datasets related to generative AI and multimodal visual AI are welcome! If you have any suggestions or comments, please feel free to open an issue.
+
+## Reference 
+
+Thanks to the help from the following Awesome repositories.
+
+https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models
+
+https://github.com/Atomic-man007/Awesome_Multimodel_LLM
