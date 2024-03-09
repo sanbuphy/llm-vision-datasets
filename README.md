@@ -33,7 +33,8 @@ This section includes datasets for multimodal models (e.g., image-text, video-te
 | Name  | Describe  | URL     |
 |-|-|-|
 | LAION | Released LAION-400M, LAION-5B, and other ultra-large image-text datasets, as well as various types of CLIP data. | https://laion.ai/projects/  https://huggingface.co/laion |
-|Conceptual Captions Dataset |Conceptual Captions is a dataset containing (image-URL, caption) pairs designed for the training and evaluation of machine learned image captioning systems. | https://github.com/google-research-datasets/conceptual-captions  http://ai.google.com/research/ConceptualCaptions|
+| Conceptual Captions Dataset |Conceptual Captions is a dataset containing (image-URL, caption) pairs designed for the training and evaluation of machine learned image captioning systems. | https://github.com/google-research-datasets/conceptual-captions  http://ai.google.com/research/ConceptualCaptions|
+||||
 
 ## Other Datasets
 
@@ -48,7 +49,9 @@ Tools that aid in data acquisition and cleaning.
 
 | Name  | Describe  | URL     |
 |-|-|-|
-| | | |
+|Owner avatar
+img2dataset |Easily turn large sets of image urls to an image dataset. Can download, resize and package 100M urls in 20h on one machine. | https://github.com/rom1504/img2dataset|
+| | | | 
 
 ## How to Add a New Dataset
 
