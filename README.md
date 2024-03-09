@@ -62,7 +62,7 @@ To contribute a new dataset to this repository, please follow these steps:
 ```
 | Name  | Describe  | URL     |
 |-|-|-|
-|DatasetsName | DatasetsDescribe | DatasetsURL |
+|DatasetsName | DatasetsDescribe | DatasetsURL1 <br> DatasetsURL2 <br> DatasetsURL3 |
 ```
 
 For example:
