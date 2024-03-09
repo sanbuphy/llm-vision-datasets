@@ -32,8 +32,8 @@ This section includes datasets for multimodal models (e.g., image-text, video-te
 
 | Name  | Describe  | URL     |
 |-|-|-|
-| LAION | Released LAION-400M, LAION-5B, and other ultra-large image-text datasets, as well as various types of CLIP data. | https://laion.ai/projects/  https://huggingface.co/laion |
-| Conceptual Captions Dataset |Conceptual Captions is a dataset containing (image-URL, caption) pairs designed for the training and evaluation of machine learned image captioning systems. | https://github.com/google-research-datasets/conceptual-captions  http://ai.google.com/research/ConceptualCaptions|
+| LAION | Released LAION-400M, LAION-5B, and other ultra-large image-text datasets, as well as various types of CLIP data. | https://laion.ai/projects/  <br>  https://huggingface.co/laion |
+| Conceptual Captions Dataset |Conceptual Captions is a dataset containing (image-URL, caption) pairs designed for the training and evaluation of machine learned image captioning systems. | https://github.com/google-research-datasets/conceptual-captions  <br>  http://ai.google.com/research/ConceptualCaptions|
 ||||
 
 ## Other Datasets
@@ -69,7 +69,7 @@ For example:
 ```
 | Name  | Describe  | URL     |
 |-|-|-|
-| LAION | Released LAION-400M, LAION-5B, and other ultra-large image-text datasets, as well as various types of CLIP data. | https://laion.ai/projects/  https://huggingface.co/laion |
+| LAION | Released LAION-400M, LAION-5B, and other ultra-large image-text datasets, as well as various types of CLIP data. | https://laion.ai/projects/  <br>  https://huggingface.co/laion |
 ```
 If your dataset doesn't fit into any of the existing categories, create a new section for it in the README file.
 
