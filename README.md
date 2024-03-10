@@ -185,7 +185,7 @@ For example:
 ```
 If your dataset doesn't fit into any of the existing categories, create a new section for it in the README file.
 
-4. Commit and push, Create a pull request.
+3. Commit and push, Create a pull request.
 
 By following these steps, you can help expand the collection of datasets available in this repository and contribute to the advancement of generative AI and multimodal visual AI research.
 
