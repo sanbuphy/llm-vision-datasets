@@ -32,7 +32,7 @@ High-resolution image data sharing, not limited to real-life or anime.
 |-|-|-|
 | LAION | Released LAION-400M, LAION-5B, and other ultra-large image-text datasets, as well as various types of CLIP data. | https://laion.ai/projects/  <br>  https://huggingface.co/laion |
 | Conceptual Captions Dataset |Conceptual Captions is a dataset containing (image-URL, caption) pairs designed for the training and evaluation of machine learned image captioning systems. | https://github.com/google-research-datasets/conceptual-captions  <br>  http://ai.google.com/research/ConceptualCaptions|
-||||
+| laion-high-resolution-chinese|A subset from Laion5B-high-resolution (a multimodal dataset), around 2.66M image-text pairs (only Chinese).|https://huggingface.co/datasets/wanng/laion-high-resolution-chinese|
 
 ### Datasets for Virtual Try-on
 
